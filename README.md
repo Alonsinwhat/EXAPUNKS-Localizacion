@@ -1,5 +1,3 @@
-[这里有中文版](README.zh.md)
-
 This an unofficial localization project for game EXAPUNKS.
 
 First at all, you should own this game, you can buy it on [steam](https://store.steampowered.com/app/716490/EXAPUNKS/) or [GOG](https://www.gog.com/game/exapunks) or whatever platforms.
