@@ -30,7 +30,7 @@ def import_strings():
     print_percent('EXAPUNKS_exe.json')
     for v in Translation('EXAPUNKS_exe.json').check_variables(regex=r'\{\d*\}',
                                                               org_index='English',
-                                                              trans_index='Chinese',
+                                                              trans_index='Spanish',
                                                               ordered=False):
         print('Warning: ', v)
     trans = Translation('EXAPUNKS_exe.json').get_translation()
@@ -38,7 +38,7 @@ def import_strings():
     csv_writer = csv.writer(open('strings.csv', 'w', encoding='utf-8'), lineterminator='\n', escapechar='\\')
     for key, value in trans.items():
         row = [key, '']
-        row.extend([value[lang] for lang in ('German', 'French', 'Russian', 'Chinese', 'Japanese')])
+        row.extend([value[lang] for lang in ('Spanish', 'French', 'Russian', 'Chinese', 'Japanese')])
         csv_writer.writerow(row)
 
 
@@ -58,7 +58,7 @@ def import_vignettes():
                     en = row[1]
                     if en in trans and len(trans[en]) > 0:
                         need_save = True
-                        row.extend([trans[en][lang] for lang in ('French', 'Chinese', 'Japanese')])
+                        row.extend([trans[en][lang] for lang in ('Spanish', 'French', 'Russian', 'Chinese', 'Japanese')])
                 csv_writer.writerow(row)
             if need_save:
                 name = name.replace('../export_txt', '../patch')
@@ -70,7 +70,7 @@ def import_vignettes():
 
 
 def import_descriptions():
-    LANGS = {'German': 'de',
+    LANGS = {'Spanish': 'es',
              'French': 'fr',
              'Russian': 'ru',
              'Chinese': 'zh',
