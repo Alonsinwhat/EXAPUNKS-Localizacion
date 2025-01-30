@@ -2,7 +2,7 @@
     {
         "FileName":"arcade-get.txt",
         "English":"Modify your WonderDisc, which normally only plays SSEA region games, to play games from any region.",
-        "German":"",
+        "Spanish":"Modifica tu WonderDisc, la que normalmente solo corre juegos de la región SSEA, para que juegue juegos de cualquier región.",
         "French":"",
         "Russian":"",
         "Chinese":"请修改你的 WonderDisc，让一般只能运行 SSEA 地区游戏的它能运行任何地区的游戏。",
@@ -12,7 +12,7 @@
     {
         "FileName":"arcade-get.txt",
         "English":"The SSEA region code is available in file 300.",
-        "German":"",
+        "Spanish":"El código regional SSEA está disponible en el archivo 300.",
         "French":"",
         "Russian":"",
         "Chinese":"SSEA 地区代码在文件 300 中。",
@@ -22,7 +22,7 @@
     {
         "FileName":"arcade-get.txt",
         "English":"It is not necessary to leave no trace. Your EXAs should be written to operate indefinitely.",
-        "German":"",
+        "Spanish":"No es necesario que no dejes rastro. Tus EXAs deberían escribirse para operar indefinidamente.",
         "French":"",
         "Russian":"",
         "Chinese":"你无需清理痕迹。你编写的 EXA 应当能永久运行。",
@@ -32,7 +32,7 @@
     {
         "FileName":"arcade-get.txt",
         "English":"For more information see \"Hardware Hacks: Sawayama WonderDisc\" in the second issue of the zine.",
-        "German":"",
+        "Spanish":"Para más información, lee \"Hardware Hacks: Sawayama WonderDisc\" en la segunda edición del zine.",
         "French":"",
         "Russian":"",
         "Chinese":"更多信息请参阅第二期杂志中的《Hardware Hacks: Sawayama WonderDisc》。",
@@ -42,7 +42,7 @@
     {
         "FileName":"atm.txt",
         "English":"Dispense all available cash from all connected ATMs.",
-        "German":"",
+        "Spanish":"Dispensa todo el dinero disponible de todas los cajeros conectados.",
         "French":"",
         "Russian":"",
         "Chinese":"请将所有连网的 ATM 机中的所有现金全部吐出。",
@@ -52,7 +52,7 @@
     {
         "FileName":"atm.txt",
         "English":"For more information see \"Network Exploration: Equity First Bank\" in the first issue of the zine.",
-        "German":"",
+        "Spanish":"Para más información, lee \"Explorando la Red: Banco Equity First\" en la primera edición del zine.",
         "French":"",
         "Russian":"",
         "Chinese":"更多信息请参阅第一期杂志中的《Network Exploration: Equity First Bank》。",
@@ -62,7 +62,7 @@
     {
         "FileName":"bank.txt",
         "English":"Move EMBER-2's new account (file 300) into *checking*. Then iterate over the checking accounts listed in the directory (file 199) and, in that order, transfer $1.00 from each target account to EMBER-2's account. Finally, add the file ID of EMBER-2's account file to the end of the directory.",
-        "German":"",
+        "Spanish":"Mueve la nueva cuenta de EMBER-2 (archivo 300) en *checking* (corriente). Luego repite sobre las cuentas corrientes del directorio (archivo 199) y, en ese orden, transfiere $1.00 de cada cuenta objetivo a la cuenta de EMBER-2. Finalmente, añade el ID del archivo de la cuenta de EMBER-2 al final del directorio.",
         "French":"",
         "Russian":"",
         "Chinese":"请将 EMBER-2 的新帐户（文件 300）移入 *checking*。随后遍历目录（文件 199）中的支票帐户，并按此顺序依次让每个帐户都向 EMBER-2 的账户转帐 $1.00。最后，将 EMBER-2 帐户文件 ID 添加到目录的尾部。",
@@ -72,7 +72,7 @@
     {
         "FileName":"bank.txt",
         "English":"The keywords ‗CREDIT‗ and ‗DEBIT‗ are available in file 301.",
-        "German":"",
+        "Spanish":"Las palabras clave ‗CREDIT‗ y ‗DEBIT‗ están disponibles en el archivo 301.",
         "French":"",
         "Russian":"",
         "Chinese":"关键字 ‗CREDIT‗ 和 ‗DEBIT‗ 在文件 301 中。",
@@ -82,7 +82,7 @@
     {
         "FileName":"baseball.txt",
         "English":"The hosts *active* and *penalty* contain files that correspond to extreme baseball players (files 200-299), along with a directory file that contains a list of those files' IDs (file 199). Each player file contains their name and the following statistics in this order: BA, ZA, APB, WRT, OI, OD, PC, and PS.",
-        "German":"",
+        "Spanish":"Los anfitriones *active* (activos) y *penalty* (penalizados) contienen archivos que corresponden a jugadores de baseball extremos (archivos 200-299), junto con un archivo directorio (archivo 199) que contiene una lista con los IDs de esos archivos. Cada archivo de jugador contiene su nombre y las siguientes estadísticas en este orden: BA, ZA, APB, WRT, OI, OD, PC, y PS.",
         "French":"",
         "Russian":"",
         "Chinese":"主机 *active* 和 *penalty* 中包含有代表 Xtreme 棒球选手们的文件（文件 200-299）以及一个含有这些文件的 ID 的目录文件（文件 199）。每个选手文件都含有他们的姓名和以下顺序的各个数据：BA, ZA, APB, WRT, OI, OD, PC, and PS。",
@@ -92,7 +92,7 @@
     {
         "FileName":"baseball.txt",
         "English":"Create a file in your host with the name of the player with the highest score using EMBER-2's algorithm:",
-        "German":"",
+        "Spanish":"Crea un archivo en tu anfitrión con el nombre del jugador con el mayor puntaje usando el algoritmo de EMBER-2:",
         "French":"",
         "Russian":"",
         "Chinese":"请在你的主机中创建一个文件，里面含有分数最高的选手的姓名。计算分数请使用 EMBER-2 的算法：",
@@ -102,7 +102,7 @@
     {
         "FileName":"baseball.txt",
         "English":"SCORE = (BA + ZA + APB) \/ 3 + ( WRT \\* OI ) \/ OD + (PC - PS) \\* 20",
-        "German":"",
+        "Spanish":"PUNTAJE = (BA + ZA + APB) \/ 3 + ( WRT \\* OI ) \/ OD + (PC - PS) \\* 20",
         "French":"",
         "Russian":"",
         "Chinese":"分数 = (BA + ZA + APB) ÷ 3 + ( WRT × OI ) ÷ OD + (PC - PS) × 20",
@@ -112,7 +112,7 @@
     {
         "FileName":"baseball.txt",
         "English":"Players in the *penalty* host should be ignored, as they are currently banned from the game.",
-        "German":"",
+        "Spanish":"Los jugadores en el anfitrión *penalty* deberían ser ignorados, puesto que están suspendidos del juego.",
         "French":"",
         "Russian":"",
         "Chinese":"请无视 *penalty* 主机中的选手——他们目前被禁止参与比赛。",
@@ -122,7 +122,7 @@
     {
         "FileName":"battle-1.txt",
         "English":"To win this battle you must make your movies play for longer than your opponent's. A movie will play when that movie's file is the only movie file sitting in a *channel* host.",
-        "German":"",
+        "Spanish":"Para ganar esta batalla debes hacer que tus películas se reproduzcan más que las de tu oponente. Una película es reproducida cuyo su archivo es el único archivo de película puesto en un anfitrión *channel* (canal).",
         "French":"",
         "Russian":"",
         "Chinese":"要在这场战斗中获得胜利，你必须让你影片的播放时间长于你的对手。当一个 *channel* 主机里只有一个影片文件时，该影片将播放。",
@@ -132,7 +132,7 @@
     {
         "FileName":"battle-1.txt",
         "English":"Gain one point every cycle for each of your movies that is playing (files 210 and 211).",
-        "German":"",
+        "Spanish":"Ganas un punto cada ciclo por cada una de tus películas que se esté reproduciendo (archivos 210 y 211).",
         "French":"",
         "Russian":"",
         "Chinese":"每当你的影片播放时（文件 210 和 211），一个影片播放一周期计一分。",
@@ -142,7 +142,7 @@
     {
         "FileName":"battle-1.txt",
         "English":"Lose one point every cycle that a movie file that isn't yours (files 230, 231, and 265) is held by an EXA you control or is sitting in your host.",
-        "German":"",
+        "Spanish":"Pierde un punto cada ciclo que un archivo de película que no sea tuyo (archivos 230, 231, y 265) se sostenga por un EXA de tu propiedad, o se encuentre en tu anfitrión.",
         "French":"",
         "Russian":"",
         "Chinese":"每当不属于你的影片文件（文件 230、231、265）被你操控的 EXA 持有或被放置于你的主机中时，持续一周期扣一分。",
@@ -152,7 +152,7 @@
     {
         "FileName":"battle-1.txt",
         "English":"Lose one point every time one of your EXAs executes a KILL instruction.",
-        "German":"",
+        "Spanish":"Pierdes un punto cada vez que tus EXAs ejecutan una instrucción KILL.",
         "French":"",
         "Russian":"",
         "Chinese":"每当你的 EXA 执行 KILL 指令时，一个 EXA 一次扣一分。",
@@ -162,7 +162,7 @@
     {
         "FileName":"battle-1.txt",
         "English":"Note that you may only battle your Steam friends after beating the NPC opponent. To view the list of possible opponents, click the \"SELECT OPPONENT\" button above.",
-        "German":"",
+        "Spanish":"Nota que solo puedes batallar a tus amigos de Steam tras derrotar al oponente PNJ. Para ver la lista de posibles oponentes, cliquea el botón superior que dice \"ELEGIR OPPONENTE\".",
         "French":"",
         "Russian":"",
         "Chinese":"请注意，你必须先打败 NPC 对手才能与你的 Steam 好友对战。若要查看可以对战的对手列表请点击上方的“选择对手”按钮。",
@@ -172,7 +172,7 @@
     {
         "FileName":"battle-1.txt",
         "English":"For more information see \"Hacker Battle Domination\" in the second issue of the zine.",
-        "German":"",
+        "Spanish":"Para más información, lee \"Batallas de Hackers: Dominación\" en la segunda edición del zine.",
         "French":"",
         "Russian":"",
         "Chinese":"更多信息请参阅第二期杂志的《Hacker Battle Domination》。",
@@ -182,7 +182,7 @@
     {
         "FileName":"battle-2.txt",
         "English":"To win this battle you must control a majority of the hosts for as long as possible.",
-        "German":"",
+        "Spanish":"Para ganar esta batalla debes controlar la mayoría de los anfitriones por el mayor tiempo posible. ",
         "French":"",
         "Russian":"",
         "Chinese":"要在这场战斗中获得胜利，你必须尽可能久地掌握多数主机的控制权。",
@@ -192,7 +192,7 @@
     {
         "FileName":"battle-2.txt",
         "English":"To take control of a host, write any value to its #CTRL register. Reading from a #CTRL register will tell if you (1) or your opponent (-1) controls the host.",
-        "German":"",
+        "Spanish":"Para controlar un anfitrión, escribe cualquier valor en su registro #CTRL. Leer el registro #CTRL te devolverá un valor dependiendo de si tú (1) o tu oponente (-1) controlan el anfitrión.",
         "French":"",
         "Russian":"",
         "Chinese":"向一个主机的 #CTRL 寄存器写入任意一个值即可控制该主机。读取 #CTRL 寄存器可以告诉你这台主机的控制权属于你（1）还是对手（-1）。",
@@ -202,7 +202,7 @@
     {
         "FileName":"battle-2.txt",
         "English":"Gain one point every cycle you control more hosts than your opponent.",
-        "German":"",
+        "Spanish":"Gana un punto cada ciclo que controles más anfitriones que tu oponente.",
         "French":"",
         "Russian":"",
         "Chinese":"每当你控制的主机数超过你的对手时，持续一周期计一分。",
@@ -212,7 +212,7 @@
     {
         "FileName":"battle-3.txt",
         "English":"To win this battle you must grab files as they spawn in the central hosts and bring them back to your host.",
-        "German":"",
+        "Spanish":"Para ganar esta batalla debes recoger archivos mientras aparecen en los anfitriones centrales, y llevarlos de vuelta a tu anfitrión.",
         "French":"",
         "Russian":"",
         "Chinese":"要在这场战斗中获得胜利，你必须在文件生成于中央主机时将其抓取并带回你的主机。中央主机不止一个。",
@@ -222,7 +222,7 @@
     {
         "FileName":"battle-3.txt",
         "English":"Reading the #FILE register will tell you the ID of the most recently created file currently in that host.",
-        "German":"",
+        "Spanish":"Leer el registro #FILE te dirá el ID del archivo más recientemente creado en aquel anfitrión.",
         "French":"",
         "Russian":"",
         "Chinese":"读取 #FILE 寄存器可以告诉你当前在该主机中最近生成的文件的 ID。",
@@ -232,7 +232,7 @@
     {
         "FileName":"battle-3.txt",
         "English":"Gain one point for every file you bring back to your host.",
-        "German":"",
+        "Spanish":"Gana un punto cada archivo que sea dejado en tu anfitrión.",
         "French":"",
         "Russian":"",
         "Chinese":"每当你将文件带回你的主机时，一个文件计一分。",
@@ -242,7 +242,7 @@
     {
         "FileName":"battle-4.txt",
         "English":"To win this battle you must fill the network's hosts with as many of your EXAs as you can. Note that each pair of test runs has its own unique network layout, with bi-directional links between hosts that use the prime numbers between 2 and 13 as link IDs (2, 3, 5, 7, 11, and 13).",
-        "German":"",
+        "Spanish":"Para ganar esta batalla debes llenar los anfitriones de la red con cuantos EXAs puedas. Nota que cada par de ejecuciones de prueba tiene su propia disposición única, con enlaces bidireccionales entre anfitriones que usan los números primos entre 2 y 13 como identificadores (2, 3, 5, 7, 11, y 13).",
         "French":"",
         "Russian":"",
         "Chinese":"要在这场战斗中获得胜利，你必须用尽可能多的你的 EXA 填满网络的主机。请注意，每对测试运行都有其各自的网络构造，且主机之间用双向链接相连，并使用 2 到 13 之间的素数作为链接ID（2、3、5、7、11、13）。",
@@ -252,7 +252,7 @@
     {
         "FileName":"battle-4.txt",
         "English":"Gain one point for every EXA you control in the network at the end of the battle.",
-        "German":"",
+        "Spanish":"Gana un punto por cada EXA que controles en la red al final de la batalla.",
         "French":"",
         "Russian":"",
         "Chinese":"每当战斗计时结束时，一个位于网络中的你的 EXA 计一分。",
@@ -262,7 +262,7 @@
     {
         "FileName":"battle-5.txt",
         "English":"To win this battle you must occupy a majority of the hosts for as long as possible. You occupy a host if you have more EXAs in it than your opponent.",
-        "German":"",
+        "Spanish":"Para ganar esta batalla deber ocupar la mayoría de los anfitriones por el mayor tiempo posible. Ocupas un anfitrión si tienes más EXAs dentro que tu oponente.",
         "French":"",
         "Russian":"",
         "Chinese":"要在这场战斗中获得胜利，你必须尽可能久地占领多数主机。当一个主机中你的 EXA 数量比你的对手多时，你将占领该主机。",
@@ -272,7 +272,7 @@
     {
         "FileName":"battle-5.txt",
         "English":"Gain one point every cycle you occupy more hosts than your opponent.",
-        "German":"",
+        "Spanish":"Ganas un punto cada ciclo que ocupes más anfitriones que tu oponente.",
         "French":"",
         "Russian":"",
         "Chinese":"每当你占领的主机数比你的对手多时，持续一周期计一分。",
@@ -282,7 +282,7 @@
     {
         "FileName":"battle-5.txt",
         "English":"Writing any value to the #NUKE register will destroy all EXAs in that host, including the EXA that triggered it.",
-        "German":"",
+        "Spanish":"Escribir cualquier valor al registro #NUKE destruirá a todos los EXAs en ese anfitrión, incluyendo al que lo activó.",
         "French":"",
         "Russian":"",
         "Chinese":"向 #NUKE 寄存器写入任意一个值将摧毁该主机中所有 EXA，包括触发了摧毁程序的 EXA。",
@@ -292,7 +292,7 @@
     {
         "FileName":"bonus-deadlock.txt",
         "English":"Each host in the network corresponds to a country and contains a list of tickets for flights (file 200) departing airports in that country, bound for airports either also in that country or in a connected country. Each ticket has the following values: ticket ID, departure airport, departure time, arrival airport, and arrival time.",
-        "German":"",
+        "Spanish":"Cada anfitrión de la red corresponde a un país y contiene una lista de tickets de vuelos salientes (archivo 200) de aeropuertos de tal país, que se dirigen a un aeropuerto del mismo país o de otro conectado. Cada ticket tiene los siguientes valores: ID del ticket, aeropuerto de salida, tiempo de salida, aeropuerto de llegada, y tiempo de llegada.",
         "French":"",
         "Russian":"",
         "Chinese":"网络中每个主机都代表一个国家，并含有一张从该国家的机场出发且通往同国家或者相连国家的机场的所有航程的机票清单（文件 200）。一张机票含有以下五个值：机票 ID、出发机场、出发时间、到达机场、以及到达时间。",
@@ -302,7 +302,7 @@
     {
         "FileName":"bonus-deadlock.txt",
         "English":"Book the sequence of flights in deadlock's itinerary (file 300) by deleting each ticket from its file in the network and adding the ticket ID to file 301, choosing the first valid flight that departs after the preceding flight arrives.",
-        "German":"",
+        "Spanish":"Reserva la secuencia de vuelos en el itinerario de deadlock (archivo 300) al borrar cada ticket de su archivo en la red, y añadiendo el ID del ticket al archivo 301, eligiendo el primer vuelo válido que salga tras la llegada del vuelo anterior.",
         "French":"",
         "Russian":"",
         "Chinese":"请根据 deadlock 行程（文件 300）中的航程订购一系列机票。你需要每次选择前一次航班到达后的第一个可用的航班，而订购机票则需要将该机票从网络中对应的文件删除，并将机票 ID 添加至文件 301 中。",
@@ -312,7 +312,7 @@
     {
         "FileName":"bonus-deadlock.txt",
         "English":"Note that deadlock's itinerary will always begin in the USA, and that flight times may be compared with TEST.",
-        "German":"",
+        "Spanish":"Nota que el itinerario de deadlock siempre comienza en Estados Unidos (USA), y que los tiempos de vuelo podrían compararse con TEST.",
         "French":"",
         "Russian":"",
         "Chinese":"请注意，deadlock 的行程必从美国（USA）开始；也同时注意航班时间可以用 TEST 指令进行比较。",
@@ -322,7 +322,7 @@
     {
         "FileName":"bonus-ghast.txt",
         "English":"Each host contains two files: a list of accounts and a list of transactions. Although the entries in these files vary, the first value of each entry is a unique identifier that connects an account to one or more transactions.",
-        "German":"",
+        "Spanish":"Cada anfitrión contiene dos archivos: una lista de cuentas y una lista de transacciones. A pesar de que las entradas en estos archivos varían, el primer valor de cada entrada es un identificador único que conecta una cuenta a una o más transacciones.",
         "French":"",
         "Russian":"",
         "Chinese":"每个主机含有二个文件：一张账户清单和一张转账清单。虽然文件里的条目可能各不相同，但是每个条目的第一个值都是一个独一无二的 id，将一个账户和转账信息联系在一起。",
@@ -332,7 +332,7 @@
     {
         "FileName":"bonus-ghast.txt",
         "English":"Determine the amount of back-pay owed to Ghast and Moss by subtracting the amount that they were paid (file 221) from the amount that they were owed (file 231). Then add their shell company (file 300) to the list of accounts payable (file 220) and issue a single payment to it for the total amout owed (file 221).",
-        "German":"",
+        "Spanish":"Determina la cantidad de deuda atrasada que se le debe a Ghast y Moss restando la cantidad que se les pagó (archivo 221) de la cantidad que se les debía (archivo 231). Luego añade su empresa fantasma (archivo 300) a la lista de cuentas por pagar (archivo 220), y emite un pago único por la cantidad adeudada (archivo 221).",
         "French":"",
         "Russian":"",
         "Chinese":"请确认未支付给 Ghast 和 Moss 的 back-pay 的总额。你需要从还未支付给他们的金额（文件 231）中减去已支付给他们的金额（文件 221）。然后将他们的皮包公司（文件 300）添加至可以支付的账户清单中（文件 220）并向其支付一笔金额为总共未支付的金额的账（文件 221）。",
@@ -342,7 +342,7 @@
     {
         "FileName":"bonus-ghast.txt",
         "English":"Note that all monetary amounts are represented as two values: dollars, then cents.",
-        "German":"",
+        "Spanish":"Nota que todas las cantidades monetarias se expresan con dos valores: dolares, y luego centavos.",
         "French":"",
         "Russian":"",
         "Chinese":"请注意，所有货币金额都由二个值组成：先是美金，再是美分。一美金等于一百美分。",
@@ -352,7 +352,7 @@
     {
         "FileName":"bonus-hydro.txt",
         "English":"Find the unredacted version of the ‗PROJECT OGRE‗ report (file 300), make a copy of it, and bring the copy back to your host. The target file will be behind one or more locks, which each require a three-digit code.",
-        "German":"",
+        "Spanish":"Halla la versión sin redactar del reporte del ‗PROYECTO OGRO‗ (archivo 300), haz una copia de él, y trae la copia de vuelta a tu anfitrión. El archivo objetivo estará detrás de uno o mas bloqueos, que requieres un código de 3 dígitos,",
         "French":"",
         "Russian":"",
         "Chinese":"请找到 ‗PROJECT OGRE‗ 报告（文件 300）的未编辑的版本，制作一份拷贝，并将其带回你的主机。目标文件被锁保护，每个锁需要一个三位数的密码。",
@@ -362,7 +362,7 @@
     {
         "FileName":"bonus-hydro.txt",
         "English":"Since this task takes place inside a network run by the military it includes additional security features not found in other networks. You may not have more than one EXA in the network at a time, and you may not use the M register to communicate between an EXA in the network and an EXA in your host.",
-        "German":"",
+        "Spanish":"Como esta tarea toma lugar dentro de una red militar, incluye seguridad adicional que no se encuentra en otras redes. No puedes tener más de un exa en la red al mismo tiempo, y no puedes usar el registro M para comunicarte con un EXA en tu anfitrión, ni viceversa.",
         "French":"",
         "Russian":"",
         "Chinese":"由于这项任务位于一个由军事组织运行的网络中，该网络含有其他网络中没有的特殊安全保护机制。你不能在该网络中安放超过一个 EXA，也不能用 M 寄存器使该网络内的 EXA 与你的主机中的 EXA 进行通讯。",
@@ -372,7 +372,7 @@
     {
         "FileName":"bonus-moss.txt",
         "English":"Packetize and transmit the target data (file 301) to the *internet* so that it is uploaded to a warez site (file 300).",
-        "German":"",
+        "Spanish":"Empaqueta y transmite el dato objetivo (archivo 301) a la *internet* para que se suba a un sitio de descargas warez (archivo 300).",
         "French":"",
         "Russian":"",
         "Chinese":"请将目标数据（文件 301）打包并传输至 *internet* 使其上传至一个破解软件网站（文件 300）。",
@@ -382,7 +382,7 @@
     {
         "FileName":"bonus-moss.txt",
         "English":"A packet is a file that consists of the source IP address (from the #ADDR register), the destination IP address (from the DNS cache, file 201), the checksum of the packet's data, and between 1 and 30 data values. The target data should be split into multiple packets so that no packet except for the last contains fewer than 30 data values.",
-        "German":"",
+        "Spanish":"Un paquete es un arcivo que consiste de la IP de la fuente (obtenida del registro #ADDR), la IP del destinatario, (del caché de la DNS, archivo 201), la suma de control de los datos del paquete, y entre 1 y 30 valores de datos. El dato objetivo debería ser dividido en múltiples paquetes, tal que ningún paquete excepto el último tenga menos de 30 valores de datos.",
         "French":"",
         "Russian":"",
         "Chinese":"一个数据包是一个文件，其中依次含有源 IP 地址（来自 #ADDR 寄存器）、目的 IP 地址（来自文件 201 DNS 缓存）、数据的校验和、以及 1 到 30 个数据值。目标数据应当被分成数个数据包，使得除了最后一个数据包外，其余的都包含不少于 30 个数据值。",
@@ -392,7 +392,7 @@
     {
         "FileName":"bonus-moss.txt",
         "English":"To calculate a packet's checksum, add the data values together considering each digit separately, wrapping back to 0 when a digit's sum reaches 10. Then flip the sign. For example, the checksum of 3097, 1047, and 2501 is -6535.",
-        "German":"",
+        "Spanish":"Para calcular la suma de control de un paquete, suma todos los valores de datos, pero considerando cada dígito por separado, y volviendo a 0 cuando se sobrepase el 10. Luego invierte el signo. Para que se entienda mejor, aquí hay un ejemplo: La suma de control de 3097, 1047, y 2501 es -6535.",
         "French":"",
         "Russian":"",
         "Chinese":"计算数据包的校验和的方法是将所有数据值四位按位分开分别加在一起，满十归零。然后取负。例：3097、1047 和 2501 的校验和等于 -6535。",
@@ -402,7 +402,7 @@
     {
         "FileName":"bonus-mutex.txt",
         "English":"Each host contains an item listing (file 200) that lists all of the items in that location (ID, type, and state).",
-        "German":"",
+        "Spanish":"Cada anfitrión tiene una lista de ítems (archivo 200) que lista todos los ítems en esa locación (ID, tipo, y estado).",
         "French":"",
         "Russian":"",
         "Chinese":"每个主机都有一个列有在该位置中所有道具（ID、类型、状态）的道具清单（文件 200）。",
@@ -412,7 +412,7 @@
     {
         "FileName":"bonus-mutex.txt",
         "English":"First, locate mutex8021's hideout by finding the ‗TALISMAN‗ (file 300). Then find the ‗MAP‗ in the hideout and use it to locate the target host: the secret vampire lair. Next, travel to the target host, disconnect the vampire players by terminating their EXAs, set the ‗DOOR‗ to be ‗UNLOCKED‗, and copy the ‗SAFE‗ combination to the ‗CLOCK‗ so that mutex8021 can read it and empty the safe.",
-        "German":"",
+        "Spanish":"Primero, localiza el escondite de mutex8021 encontrando el  ‗TALISMAN‗ (archivo 300). Luego halla el ‗MAP‗ (Mapa) en el escondite y úsalo para hallar el anfitrión objetivo: la guarida secreta del vampiro. Luego, viaja a tal anfitrión, desconecta a los jugadores vampiros matando a sus EXAs, establece la puerta como ‗UNLOCKED‗ (desbloqueada), y copia la combinación de la ‗SAFE‗ (caja fuerte) al ‗CLOCK‗ (reloj) para que mutex8021 pueda leerla y vaciar la caja.",
         "French":"",
         "Russian":"",
         "Chinese":"首先，寻找关键词 ‗TALISMAN‗ （文件 300），以此确认 mutex8021 的窝点的位置。随后在窝点中找到 ‗MAP‗ 并借此确认目标主机（秘密吸血鬼巢穴）的位置。接着来到目标主机，通过终结 EXA 的方式让所有吸血鬼玩家下线，将 ‗DOOR‗ 的状态设为 ‗UNLOCKED‗，再将 ‗SAFE‗ 的密码拷贝到 ‗CLOCK‗ 上，这样 mutex8021 就可以看到密码搬空保险箱了。",
@@ -422,7 +422,7 @@
     {
         "FileName":"bonus-mutex.txt",
         "English":"Note that the door to mutex8021's hideout will always be ‗UNLOCKED‗.",
-        "German":"",
+        "Spanish":"Nota que la puerta al escondite de mutex8021 estará siempre ‗UNLOCKED‗ (desbloqueada).",
         "French":"",
         "Russian":"",
         "Chinese":"请注意，mutex8021 的窝点的门永远是 ‗UNLOCKED‗ 的。",
@@ -432,7 +432,7 @@
     {
         "FileName":"bonus-nth.txt",
         "English":"There is a list of appointments (file 200) in *storage* that contains an appointment for NthDimension (file 300) to take his driving test. Remove the appointment from the list of appointments, change the date to today's date (#DATE register), and insert it between today's appointments and tomorrow's appointments.",
-        "German":"",
+        "Spanish":"Hay una lista de citas (archivo 200) en *storage* (almacenamiento) que contiene una cita para NthDimension (archivo 300) para su prueba de conducir. Quita la cita de la lista, cambia la fecha a la de hoy (registro #DATE), e insértala entre las citas de hoy y las de mañana.",
         "French":"",
         "Russian":"",
         "Chinese":"在 *storage* 中有一张预约列表（文件 200），里面含有 NthDimension 驾驶考试的预约（文件 300）。请从预约列表中移除该预约，将日期改为今天（#DATE 寄存器），然后将其插入到今天的预约和明天的预约之间。",
@@ -442,7 +442,7 @@
     {
         "FileName":"bonus-nth.txt",
         "English":"To gain access to the *storage* host you will need to unlock it by writing the lowest ticket number to the #NEXT register. Each EXA in *public* is holding a ticket; terminate them all to find the ticket of the next EXA to be served.",
-        "German":"",
+        "Spanish":"Para ganar acceso a *storage* debes desbloquearlo escribiendo el menos número de ticket al registro #NEXT. Cada EXA en *public* (público) lleva un ticket; termínalos todos para encontrar el ticket del próximo EXA en la fila.",
         "French":"",
         "Russian":"",
         "Chinese":"要访问 *storage* 主机你需要向 #NEXT 寄存器写入编号最低的 ticket 编号解除主机锁定。*public* 中每个 EXA 都持有一张 ticket；终结所有 EXA 后即可获知下一名服务的 EXA 是哪个。",
@@ -452,7 +452,7 @@
     {
         "FileName":"bonus-nth.txt",
         "English":"Note that writing an incorrect ticket number to the #NEXT register will fail the _leave no trace_ requirement.",
-        "German":"",
+        "Spanish":"Nota que escribir un n´´umero incorrecto a #NEXT hará que se falle el requerimiento de _no dejar rastro_.",
         "French":"",
         "Russian":"",
         "Chinese":"请注意，向 #NEXT 寄存器写入错误的 ticket 编号将导致【不留痕迹】的要求失败。",
@@ -462,7 +462,7 @@
     {
         "FileName":"bonus-plastered.txt",
         "English":"File 300 contains a phone number where one to three of the digits have been replaced with a placeholder (‗X‗). Using your modem, dial all possible phone numbers that could be generated by replacing the placeholders with the digits 0 through 9. When you discover a valid phone number that connects to another host, append it to file 301.",
-        "German":"",
+        "Spanish":"El archivo 300 tiene un número de teléfono donde uno de cada tres de los dígitos se reemplazó con una ‗X‗. Usando tu módem, llama a todos los posibles números que se podrían generar cambiando las Xs con dígitos del 0 al 9. Cuando descubras un número válido, anótalo al archivo 301.",
         "French":"",
         "Russian":"",
         "Chinese":"文件 300 含有一个电话号码，但其中有一位、二位或三位数字被替换成了一个占位符（‗X‗）。若将所有占位符都替换成 0 到 9 中的一个数字，你将得到一个电话号码。请使用你的调制解调器拨打所有可能的电话号码。若你发现了一个可以接通到另一个主机的电话号码，请将其添加至文件 301 的末尾处。",
@@ -472,7 +472,7 @@
     {
         "FileName":"bonus-plastered.txt",
         "English":"Note that the phone numbers must be dialed and appended in a specific order such that a placeholder is only incremented when the placeholder to the right cycles through all possible values from 0 to 9 and is reset to 0.",
-        "German":"",
+        "Spanish":"Nota que los números deben ser llamados y anotados en un orden específico tal que una de las X aumente sólo cuando la X directamente a su derecha halla pasado por un ciclo de todos los posibles valores del 0 al 9, y vuelva a 0.",
         "French":"",
         "Russian":"",
         "Chinese":"请注意，你必须以一个每个占位符都要在其右边的占位符从 0 加到 9 再回到 0 时才进一的顺序拨打电话号码。",
@@ -482,7 +482,7 @@
     {
         "FileName":"bonus-plastered.txt",
         "English":"For more information see \"Hacker Skills: Modem Control at the Direct Level\" in the second issue of the zine.",
-        "German":"",
+        "Spanish":"Para más información, lee \"Habilidades de Hacker: Controlando Módems a Nivel Directo\" en la segunda edición del zine.",
         "French":"",
         "Russian":"",
         "Chinese":"更多信息请参阅第二期杂志中的《Hacker Skills: Modem Control at the Direct Level》。",
@@ -492,7 +492,7 @@
     {
         "FileName":"bonus-selenium.txt",
         "English":"Replace ‗ENGLISH‗ with ‗AP ENGLISH‗ (file 300) in selenium\\_wolf's child's class schedule (file 235).",
-        "German":"",
+        "Spanish":"Reemplaza ‗ENGLISH‗ (inglés) con ‗AP ENGLISH‗ (inglés avanzado) (archivo 300) en el horario de clases del niño de selenium\\_wolf (archivo 235).",
         "French":"",
         "Russian":"",
         "Chinese":"请将 selenuim\\_wolf 的孩子的课程表（文件 235）中的 ‗ENGLISH‗ 课替换成  ‗AP ENGLISH‗ （文件 300）课。",
@@ -502,7 +502,7 @@
     {
         "FileName":"bonus-selenium.txt",
         "English":"Because those two classes are most likely not offered at the same time, you may need to rearrange the rest of their schedule to make it fit. Modify the schedule so that they are taking the same classes but at different times when necessary. A full list of classes offered is available in file 200.",
-        "German":"",
+        "Spanish":"Debido a que esas dos clases muy probablemente no se ofrecen al mismo tiempo, puede que debas reordenar el resto del horario para que calce. Modifica el horario tal que se tomen las mismas clases pero en horas distintas de ser necesario. Una lista completa de las clases ofrecidas se encuentra en el archivo 200.",
         "French":"",
         "Russian":"",
         "Chinese":"由于这二门课极有可能不在同一时间上，你可能需要重新安排其余的课程的时间使其满足要求。请按需要修改课程表，使同样的课程在不同的时间举行。文件 200 中列有所有可用的课程名单。",
@@ -512,7 +512,7 @@
     {
         "FileName":"bonus-selenium.txt",
         "English":"Note that there will only be one valid schedule.",
-        "German":"",
+        "Spanish":"Nota que habrá solo un horario válido.",
         "French":"",
         "Russian":"",
         "Chinese":"请注意，符合要求的课程表有且仅有一张。",
@@ -522,7 +522,7 @@
     {
         "FileName":"bonus-selenium.txt",
         "English":"Also note that ‗AP ENGLISH‗ will only be offered once and each other class will be offered no more than twice.",
-        "German":"",
+        "Spanish":"También nota que ‗AP ENGLISH‗ solo se ofrecerá una ver y cada una de las otras clases se ofrecerá no más de dos veces.",
         "French":"",
         "Russian":"",
         "Chinese":"同时请注意 ‗AP ENGLISH‗ 课程只有一节，而其他所有课程都有不超过二节。",
@@ -532,7 +532,7 @@
     {
         "FileName":"bonus-x10.txt",
         "English":"The data on this drive array is duplicated across three drives for redundancy, with a file name index stored in the *controller* (file 200). Unfortunately, the drive array is failing.",
-        "German":"",
+        "Spanish":"Los datos de esta matriz de discos están duplicados a lo largo de tres discos por redundancia, con un índice de los nombres de los datos guardado en el *controller* (controlador) (archivo 200). Desafortunadamente, la matrisx está fallando.",
         "French":"",
         "Russian":"",
         "Chinese":"该硬盘阵列上的数据被重复写在了三个硬盘上，同时在 *controller* 中有一个文件名索引（文件 200）。不幸的是，该硬盘阵列即将报废。",
@@ -542,7 +542,7 @@
     {
         "FileName":"bonus-x10.txt",
         "English":"For each file stored in the drive array, create a file in your host that contains the file name and data. Some values are corrupted and will read as a keyword (‗FAIL‗) instead of a number. You will need to read these values from a different drive that is not corrupted.",
-        "German":"",
+        "Spanish":"Para cada archivo guardado en la matriz, crea un archivo en tu anfitrión que contenga el nombre del archivo y sus datos. Algunos valores estarán corruptos y se leerán como ‗FAIL‗ en vez del dato correspondiente. Tendrás que leer esos datos de uno de los discos en que no esté corrupto.",
         "French":"",
         "Russian":"",
         "Chinese":"对于每一个在硬盘阵列中的文件，请分别在你的主机中创建一个包含文件名和其数据的文件。部分值已经损坏，读取时将不会读到一个数，而是一个关键词（‗FAIL‗）。此时你需要从另一个该值没有损坏的硬盘中读取这个值。",
@@ -552,7 +552,7 @@
     {
         "FileName":"bonus-x10.txt",
         "English":"Note that some links may be unreliable as a result of the drive array's impending failure.",
-        "German":"",
+        "Spanish":"Nota que algunos enlaces pueden no ser confiables debido al inminente fallo de la matriz.",
         "French":"",
         "Russian":"",
         "Chinese":"请注意，由于该硬盘阵列正在故障中，部分链接可能无法保持可访问的状态。",
@@ -562,7 +562,7 @@
     {
         "FileName":"copy-shop.txt",
         "English":"Erase Ghast's debt to the copy shop by zeroing out his balance in the customer database (file 200) and appending a payment to the payment log (file 201) with today's date and the exact amount of his prior balance.",
-        "German":"",
+        "Spanish":"Borra la deuda de Ghast en la tienda de fotocopias poniendo en cero su balance en la base de datos de clientes (archivo 200) y agregando un pago al registro de pagos (archivo 201) con la fecha de hoy y la cantidad exacta de su anterior balance.",
         "French":"",
         "Russian":"",
         "Chinese":"消除复印店里的 Ghast 的债务记录。你需要将其在客户数据库中的欠款清零（文件 200），并在付款日志（文件 201）中添加今天的日期和他的欠款金额。",
@@ -572,7 +572,7 @@
     {
         "FileName":"copy-shop.txt",
         "English":"Ghast's customer ID is available in file 300.",
-        "German":"",
+        "Spanish":"El ID de cliente de Ghast está disponible en el archivo 300.",
         "French":"",
         "Russian":"",
         "Chinese":"Ghast 的客户 ID 在文件 300 中。",
@@ -582,7 +582,7 @@
     {
         "FileName":"copy-shop.txt",
         "English":"For more information see \"Network Exploration: Digicash Point-of-Sale Systems\" in the first issue of the zine.",
-        "German":"",
+        "Spanish":"Para más información, lee \"Explorando la Red: Sistemas Digicash Point-of-Sale\" en la primera edición del zine.",
         "French":"",
         "Russian":"",
         "Chinese":"更多信息请参阅第一期杂志中的 《Network Exploration: Digicash Point-of-Sale Systems》。",
@@ -592,7 +592,7 @@
     {
         "FileName":"credit-card.txt",
         "English":"Create a file in your host containing the contiguous 16-value sequence from the garbage file (file 199) that is a valid credit card number. There will be exactly one such sequence.",
-        "German":"",
+        "Spanish":"Crea un archivo en tu anfitrión que contenga la secuencia contigua de 16 valores del archivo basura (archivo 199) que corresponda a un número de tarjeta válido. Sólo existirá una secuencia así.",
         "French":"",
         "Russian":"",
         "Chinese":"请在你的主机中创建一个文件，其中包含垃圾文件（文件 199）中的可以组成一个有效的信用卡号的连续 16 位数数列。这样的数列有且仅有一串。",
@@ -602,7 +602,7 @@
     {
         "FileName":"credit-card.txt",
         "English":"For more information see \"How to Validate Credit Card Numbers\" in the second issue of the zine.",
-        "German":"",
+        "Spanish":"Para más información, lee \"Cómo Validar Números de Tarjeta de Crédito\" en la segunda edición del zine.",
         "French":"",
         "Russian":"",
         "Chinese":"更多信息请参阅第二期杂志上的《How to Validate Credit Card Numbers》。",
@@ -612,7 +612,7 @@
     {
         "FileName":"dna.txt",
         "English":"Overwrite the genetic sequence of ‗SEN WALKER CAINE JR‗ with the genetic sequence of ‗PRES WALKER CAINE‗ so that it looks like the younger politician is actually a clone of the older politician.",
-        "German":"",
+        "Spanish":"Sobrescribe la secuencia genética de ‗SEN WALKER CAINE JR‗ con la secuencia genética de ‗PRES WALKER CAINE‗ para que parezca que el político más joven es realmente un clon del político más viejo.",
         "French":"",
         "Russian":"",
         "Chinese":"请将 ‗SEN WALKER CAINE JR‗ 的基因序列改写为 ‗PRES WALKER CAINE‗ 的基因序列，让人们认为二位政治家中年轻的一位其实是年长的一位的克隆。",
@@ -622,7 +622,7 @@
     {
         "FileName":"dna.txt",
         "English":"The names of these two politicians are available in file 300.",
-        "German":"",
+        "Spanish":"Los nombres de estos dos políticos se encuentran en el archivo 300.",
         "French":"",
         "Russian":"",
         "Chinese":"二位政治家的名字在文件 300 中。",
@@ -632,7 +632,7 @@
     {
         "FileName":"dna.txt",
         "English":"Note that you may need to overwrite a data chunk with another data chunk from the same file.",
-        "German":"",
+        "Spanish":"Nota que es posible que debas sobrescribir un bloque de datos con otro bloque de datos del mismo archivo.",
         "French":"",
         "Russian":"",
         "Chinese":"请注意，你可能需要用一个文件中的一个数据块来改写同一个文件中的另一个数据块。",
@@ -642,7 +642,7 @@
     {
         "FileName":"dna.txt",
         "English":"For more information see \"Accessing Data in Legacy Storage Systems\" in the first issue of the zine.",
-        "German":"",
+        "Spanish":"Para más información, lee \"Accediendo a Datos en Sistemas de Almacenamiento de Legado\" en la primera edición del zine.",
         "French":"",
         "Russian":"",
         "Chinese":"更多信息请参阅第一期杂志中的《Accessing Data in Legacy Storage Systems》。",
@@ -652,7 +652,7 @@
     {
         "FileName":"edge-detection.txt",
         "English":"Read a value from each of the optic nerves present and write the correct value to the nerve that runs deeper into your visual cortex (V-CTX). To determine the value that should be written, count the number of values read that are greater than -55, multiply that count by 5, and then subtract 75. Repeat _ad infinitum_.",
-        "German":"",
+        "Spanish":"Lee un valor de cada uno de los nervios ópticos presentes y escribe el valor correcto al nervio que se extiende más profundo en tu corteza visual (V-CTX). Para determinar qué valor escribir, cuenta el número de valores leídos mayores que -55, multiplica la cuenta por 5, y luego substrae 75. Repite _ad infinitum_.",
         "French":"",
         "Russian":"",
         "Chinese":"请从每条视神经中读取一个值，并将正确的值写入你的深层视皮层（V-CTX）神经中。要确定写入的值，请数出大于 -55 的读取值的个数，将该个数乘以 5，再减去 75。请无限重复此操作。",
@@ -662,7 +662,7 @@
     {
         "FileName":"edge-detection.txt",
         "English":"For more information see \"Debugging the Phage\" in the first issue of the zine.",
-        "German":"",
+        "Spanish":"Para más información, lee \"Depurando el Fago\" en la primera edición del zine.",
         "French":"",
         "Russian":"",
         "Chinese":"更多信息请参阅第一期杂志上的《Debugging the Phage》。",
@@ -672,7 +672,7 @@
     {
         "FileName":"find-replace.txt",
         "English":"Find and replace the keywords in the target message (file 212) as directed by EMBER-2.",
-        "German":"",
+        "Spanish":"Encuentra y reemplaza las palabras clave en el mensaje objetivo (archivo 212) como EMBER-2 te ordenó.",
         "French":"",
         "Russian":"",
         "Chinese":"请根据 EMBER-2 的指示查找并替换目标消息（文件 212）中的关键词。",
@@ -682,7 +682,7 @@
     {
         "FileName":"find-replace.txt",
         "English":"A list of keyword pairs indicating which words should be found and what they should be replaced with is available in file 300. For example, the keyword ‗AI‗ should be replaced with the keyword ‗COLLECTIVE‗. Each keyword will only occur once, but may occur in any order.",
-        "German":"",
+        "Spanish":"Una lista de pares de palabras clave indicando cuales se encontrarán y con cuales se deberán intercambiar se encuentra disponible en el archivo 300. Por ejemplo, La palabra clave ‗AI‗ debería reemplazarse con la palabra ‗COLLECTIVE‗. Cada palabra clave solo se verá una vez, pero puede darse en cualquier orden.",
         "French":"",
         "Russian":"",
         "Chinese":"文件 300 中提供关键词替换列表，每对关键词代表了需要查找的词和替换成的词。例：‗AI‗ 应替换为 ‗COLLECTIVE‗。每个关键词只会出现一次，但可以以任何顺序出现。",
@@ -692,7 +692,7 @@
     {
         "FileName":"find-replace.txt",
         "English":"Also, move file 200 to the *outbox*.",
-        "German":"",
+        "Spanish":"Ah, también mueve el archivo 200 a *outbox* (bandeja de salida).",
         "French":"",
         "Russian":"",
         "Chinese":"此外，请将文件 200 移动到 *outbox*。",
@@ -702,7 +702,7 @@
     {
         "FileName":"ghost-network.txt",
         "English":"Find file 276 in the network and bring it back to your host.",
-        "German":"",
+        "Spanish":"Encuentra el archivo 276 en la red y tráelo a tu anfitrión.",
         "French":"",
         "Russian":"",
         "Chinese":"在网络中找到文件 276，并将其带回你的主机。",
@@ -712,7 +712,7 @@
     {
         "FileName":"ghost-network.txt",
         "English":"Note that an EXA cannot grab a file that is being held by another EXA.",
-        "German":"",
+        "Spanish":"Nota que un EXA no puede agarrar un archivo que otro EXA esté sosteniendo.",
         "French":"",
         "Russian":"",
         "Chinese":"请注意，一个 EXA 不能抓取另一个 EXA 持有的文件。",
@@ -722,7 +722,7 @@
     {
         "FileName":"heartbeat.txt",
         "English":"Read a value from the nerve connected to your central nervous system (CNS) and make your heart beat by writing a sequence of values to your sinoatrial (SA-N) and atrioventricular (AV-N) nodes as indicated in the HDI-10 I\/O log when holding the \"SHOW GOAL\" button. The length of each sequence of values should be equal to the value from the CNS divided by -10. Repeat _ad infinitum_.",
-        "German":"",
+        "Spanish":"Lee un valor del nervio conectado a tu sistema nervioso central (CNS) y haz que tu corazón lata escribiendo una secuencia de valores a los nodos de tu sinoauricular (SA-N) y auriculoventricular (AV-N), como se indica en el registro de la HDI-10 I\/O al mantener el botón de \"MOSTRAR META\". La longitud de cada secuencia de valores debería ser igual al valor del CNS, dividido en -10. Repite _ad infinitum_.",
         "French":"",
         "Russian":"",
         "Chinese":"请从与你的中枢神经系统（CNS）相连的神经中读取一个值，并向你的窦房（SA-N）和房室（AV-N）按照按住“显示目标”按钮时神经网络调试器 I\/O 日志的显示写入一串值，使你的心脏跳动。每串值的长度应等于 CNS 的值减去 -10。请无限重复此操作。",
@@ -732,7 +732,7 @@
     {
         "FileName":"highway-sign.txt",
         "English":"Write EMBER-2's message (file 300) to the highway sign. The file contains one character value for each position on the sign from left to right, top to bottom.",
-        "German":"",
+        "Spanish":"Escribe el mensaje de EMBER-2 (archivo 300) a la señal de la autopista. el archivo contiene un valor de carácter por cada posición en la señal, de izquierda a derecha, arriba a abajo.",
         "French":"",
         "Russian":"",
         "Chinese":"请将 EMBER-2 的消息（文件 300）写到高速公路指示牌上。这封文件包含有指示牌上从左到右、从上到下每个位置对应的字符编码。",
@@ -742,7 +742,7 @@
     {
         "FileName":"highway-sign.txt",
         "English":"For more information see \"Hardware Hacks: Electronic Highway Signs\" in the first issue of the zine.",
-        "German":"",
+        "Spanish":"Para más información, lee \"Hardware Hacks: Señales de Autopista Electrónicas\" en la primera edición del zine.",
         "French":"",
         "Russian":"",
         "Chinese":"更多信息请参阅第一期杂志上的《Hardware Hacks: Electronic Highway Signs》。",
@@ -752,7 +752,7 @@
     {
         "FileName":"interface.txt",
         "English":"Create a file in your host containing the hostname and hardware register value of each neuron exactly once, sorted as pairs from lowest to highest hostname.",
-        "German":"",
+        "Spanish":"Crea un archivo en tu anfitrión conteniendo el nombre de anfitrión y valor del registro de hardware de cada neurona exactamente una vez, ordenador en pares del nombre de anfitrión más bajo al más alto.",
         "French":"",
         "Russian":"",
         "Chinese":"请在你的主机中创建一个文件，里面含有每个神经元的主机名和硬件寄存器的值恰好一次，并以这二个值为一组，按照主机名从小到大排序。",
@@ -762,7 +762,7 @@
     {
         "FileName":"interface.txt",
         "English":"Note that each test run has its own unique network layout.",
-        "German":"",
+        "Spanish":"Nota que cada ejecución de prueba tiene su propia disposición única.",
         "French":"",
         "Russian":"",
         "Chinese":"请注意，每次测试运行都有其各自的网络构造。",
@@ -772,7 +772,7 @@
     {
         "FileName":"left-hand.txt",
         "English":"There are three nerve signals that need to be relayed: muscle control (M), which runs from your central nervous system (CNS) to your hand (HND), and heat (H) and pressure (P), which run the other direction.",
-        "German":"",
+        "Spanish":"Hay tres señales nerviosas que deben transmitirse: control muscular (M), que va desde tu sistema nervioso central (CNS) a tu mano (HND), y calor (H) y presión (P), que van en la otra dirección.",
         "French":"",
         "Russian":"",
         "Chinese":"有三个神经信号需要中继：从中枢神经系统（CNS）到手部（HND）的肌肉控制信号（M）和逆向的热量信号（H）和压力信号（P）。",
@@ -782,7 +782,7 @@
     {
         "FileName":"left-hand.txt",
         "English":"For each signal, read a value from the input nerve and relay it to the output nerve. Repeat _ad infinitum_.",
-        "German":"",
+        "Spanish":"Por cada señal, lee un valor del nervio de entrada y pásalo al nervio de salida. Repite _ad infinitum_.",
         "French":"",
         "Russian":"",
         "Chinese":"对于每个信号，请从输入神经读取一个值，并将其中继到输出神经。请无限重复此操作。",
@@ -792,7 +792,7 @@
     {
         "FileName":"library.txt",
         "English":"Books are stored in the host corresponding to the first digit of their call number, while a book's file ID is 200 plus the last two digits of the call number. For example, book 512 would be stored in the host *500-599* as file 212.",
-        "German":"",
+        "Spanish":"Los libros se guardan en el anfitrión correspondiente al primer dígito de su número de catálogo, mientras que el ID de su archivo es 200 más los últimos dos dígitos de su número de catálogo. Por ejemplo, el libro 512 estaría en el anfitrión *500-599* como el archivo 212.",
         "French":"",
         "Russian":"",
         "Chinese":"书本按照其索书号的第一位位数储存在对应的主机中，而书本的文件 ID 则是 200 加上索书号的后二位数。比如，书本 512 将储存在主机 *500-599* 中，文件 ID 则是 212。",
@@ -802,7 +802,7 @@
     {
         "FileName":"library.txt",
         "English":"Duplicate each of the books requested by EMBER-2 and bring them back to your host.",
-        "German":"",
+        "Spanish":"Duplica cada uno de los libros pedidos por EMBER-2 y llévalos a tu anfitrión.",
         "French":"",
         "Russian":"",
         "Chinese":"请复制 EMBER-2 请求的所有书本并将其带回你的主机。",
@@ -812,7 +812,7 @@
     {
         "FileName":"library.txt",
         "English":"The call numbers for the books EMBER-2 wants are available in file 300.",
-        "German":"",
+        "Spanish":"Los números de catálogo de los libros que EMBER-2 quiere están en el archivo 300.",
         "French":"",
         "Russian":"",
         "Chinese":"EMBER-2 请求的所有书的索书号都在文件 300 中。",
@@ -822,7 +822,7 @@
     {
         "FileName":"library.txt",
         "English":"Note that EMBER-2 will never request more than one book from the same host.",
-        "German":"",
+        "Spanish":"Nota que EMBER-2 nunca pedirá más de un libro de un mismo anfitrión.",
         "French":"",
         "Russian":"",
         "Chinese":"请注意，EMBER-2 只会在同一主机中请求最多一本书。",
@@ -832,7 +832,7 @@
     {
         "FileName":"mmo.txt",
         "English":"Reset the ownership of all castles and sub-buildings to ‗P00000‗ (file 300), the player ID for unowned buildings.",
-        "German":"",
+        "Spanish":"Reinicia la propiedad de todos los castillos y subconstrucciones a ‗P00000‗ (archivo 300), el ID de jugador para construcciones sin dueño.",
         "French":"",
         "Russian":"",
         "Chinese":"请将所有城堡和附属建筑的所有权全部设为 ‗P00000‗（文件 300），用于无人拥有的建筑的玩家 ID。",
@@ -842,7 +842,7 @@
     {
         "FileName":"mmo.txt",
         "English":"To ensure that there are no witnesses you must first disconnect all connected players. Terminate every EXA in every host before changing any castle or sub-building files anywhere in the network. If you leave an EXA alive in one host while changing a file in another you will fail the task.",
-        "German":"",
+        "Spanish":"Para asegurar que no hay testigos primero debes desconectar a todos los jugadores conectados. Acaba con todos los EXA en cada anfitrión antes de modificar algún archivo de castillo o subcontrucción de cualquier parte de la red. Si dejas un EXA vivo en un anfitrión y cambias un archivo en otro, fallarás la misión.",
         "French":"",
         "Russian":"",
         "Chinese":"为保证无人目击你的行为你必须先将所有在线玩家断开连接。请终结所有主机中的所有 EXA，在此之前请勿对任何主机中的任何城堡\/附属建筑文件进行更改。如果你在更改一个主机的文件时其他主机还有存留的 EXA，该任务将失败。",
@@ -852,7 +852,7 @@
     {
         "FileName":"mmo.txt",
         "English":"For more information see \"Network Exploration: King's Ransom Online\" in the second issue of the zine.",
-        "German":"",
+        "Spanish":"Para más información, lee \"Explorando la Red: King's Ransom Online\" en la segunda edición del zine.",
         "French":"",
         "Russian":"",
         "Chinese":"更多信息请参阅第二期杂志的《Network Exploration: King's Ransom Online》。",
@@ -862,7 +862,7 @@
     {
         "FileName":"nerve-bridge.txt",
         "English":"Read a value from the nerve connected to your central nervous system (CNS) and relay it to the nerve connected to your arm (ARM), clamping the value so that it never goes below -120 or above 50. Repeat _ad infinitum_.",
-        "German":"",
+        "Spanish":"Lee un valor del nervio conectado a tu sistema nervioso central (CNS) y transmítelo al nervio conectado a tu brazo (ARM), apretando el valor para que nunca quede debajo de -120 o sobrepase 50. Repite _ad infinitum_.",
         "French":"",
         "Russian":"",
         "Chinese":"请从与你的中枢神经系统（CNS）连接的神经中读取一个值，并将其中继到手臂（ARM）的神经中，并限制该值的范围，使其不低于 -120 不高于 50。请无限重复此操作。",
@@ -872,7 +872,7 @@
     {
         "FileName":"nerve-bridge.txt",
         "English":"Since this task takes place inside a network you control— that is, your own body— it is not necessary to leave no trace. Your EXAs should be written to operate indefinitely.",
-        "German":"",
+        "Spanish":"Puesto que esta tarea tiene lugar en una red que controlas— eso es, tu propio cuerpo— no es necesario que no dejes rastro. Tus EXAs deberían estar escritos para operar indefinidamente.",
         "French":"",
         "Russian":"",
         "Chinese":"由于此任务处理的是你掌控的网络——即，你自己的身体——你无需清理痕迹。你编写的 EXA 应当能永久运行。",
@@ -882,7 +882,7 @@
     {
         "FileName":"nerve-bridge.txt",
         "English":"Note that #NERV is a _hardware register_, not a file. You can use it directly in your code like any other register.",
-        "German":"",
+        "Spanish":"Nota que #NERV es un _registro de hardware_, no un archivo. Puedes usarlo directamente en tu código, al igual que con cualquier otro registro.",
         "French":"",
         "Russian":"",
         "Chinese":"请注意，#NERV 是一个‗硬件寄存器‗，并非文件。你可以像其他寄存器一样直接在代码中使用它。",
@@ -892,7 +892,7 @@
     {
         "FileName":"nerve-bridge.txt",
         "English":"For more information about the phage see \"Debugging the Phage\" in the first issue of the zine.",
-        "German":"",
+        "Spanish":"Para más información sobre el fago, lee \"Depurando el Fago\" en la primera edición del zine.",
         "French":"",
         "Russian":"",
         "Chinese":"关于 Phage 的更多信息请参阅第一期杂志上的《Debugging the Phage》。",
@@ -902,7 +902,7 @@
     {
         "FileName":"pagers.txt",
         "English":"Connect to each pager and copy EMBER-2's message (file 300) to the screen (#DATA). Then activate all of the pagers at exactly the same time by writing a value to each #PAGE register in the same cycle.",
-        "German":"",
+        "Spanish":"Conéctate a cada localizador y copia el mensaje de EMBER-2 (archivo 300) a la pantalla (#DATA). Luego activa todos los localizadores al mismo tiempo, escribiendo un valor a los registros #PAGE en un mismo ciclo.",
         "French":"",
         "Russian":"",
         "Chinese":"请与所有寻呼机连接，将 EMBER-2 的消息（文件 300）抄写到屏幕（#DATA）上。然后请在同一时间内启动所有寻呼机；你需要在一个周期内向所有 #PAGE 寄存器都写入一个值。",
@@ -912,7 +912,7 @@
     {
         "FileName":"pagers.txt",
         "English":"A list of phone numbers for the pagers is available in file 301.",
-        "German":"",
+        "Spanish":"Una lista con los números telefónicos para los localizadores se encuentra en el archivo 301.",
         "French":"",
         "Russian":"",
         "Chinese":"寻呼机的电话号码列表在文件 301 中。",
@@ -922,7 +922,7 @@
     {
         "FileName":"peanut-blast.txt",
         "English":"Remove the keyword ‗PEANUTS‗ (file 300) from the Peanut Blast recipe (file 237).",
-        "German":"",
+        "Spanish":"Remueve la palabra clave ‗PEANUTS‗ (maní) (archivo 300) de la receta de la barrita Explosión de Maní (archivo 237).",
         "French":"",
         "Russian":"",
         "Chinese":"请从花生棒配方（文件 237）中删除关键字 “‗PEANUTS‗”（文件 300）。",
@@ -932,7 +932,7 @@
     {
         "FileName":"peanut-blast.txt",
         "English":"Note that the target keyword will appear in a different position in each of the 100 test runs. To view and debug each of the different test runs, click the arrow buttons next to the \"TEST RUN\" display above.",
-        "German":"",
+        "Spanish":"Nota que la palabra clave objetivo aparece en distintas posiciones en cada una de las 100 ejecuciones de prueba. Para ver y depurar cada uno de estas pruebas, pincha las flechas al lado de la pantallita que dice \"EJECUCIÓN DE PRUEBA\" aquí arriba.",
         "French":"",
         "Russian":"",
         "Chinese":"请注意，在 100 次测试运行中，你要删除的关键字将分别出现在不同的位置。若要查看和调试各次不同的测试运行，请单击上方“测试运行”左右侧的箭头按钮。",
@@ -942,7 +942,7 @@
     {
         "FileName":"pizza-delivery.txt",
         "English":"Append your order (file 300) to the end of the order list (file 200).",
-        "German":"",
+        "Spanish":"Agrega tu pedido (archivo 300) al final de la lista de pedidos (archivo 200).",
         "French":"",
         "Russian":"",
         "Chinese":"请将你的订单（文件 300）添加到订单列表（文件 200）的末尾。",
@@ -952,7 +952,7 @@
     {
         "FileName":"pizza-delivery.txt",
         "English":"Note that all orders, including yours, will consist of exactly five keywords.",
-        "German":"",
+        "Spanish":"Nota que todos los pedidos, incluido el tuyo, consistirán de exactamente cinco palabras clave.",
         "French":"",
         "Russian":"",
         "Chinese":"请注意，所有订单（包括你的订单）都由恰好五个关键字组成。",
@@ -962,7 +962,7 @@
     {
         "FileName":"power-grid.txt",
         "English":"Locate the two hosts with the specified hostnames (file 300), which correspond to the target power grid substations. When you've found them, cut the power by writing a value of 0 to #POWR.",
-        "German":"",
+        "Spanish":"Localiza los dos anfitriones con los nombres de anfitrión especificados (archivo 300), que corresponden a las subestaciones de la red eléctrica objetivo. Cuando las encuentres, corta el poder, escribiendo 0 a #POWR.",
         "French":"",
         "Russian":"",
         "Chinese":"请根据给定的二个主机名（文件 300）定位对应的二个主机。这些主机对应了目标电网中的变电站。当你找到了这二个主机后，向 #POWR 写入一个值 0，切断电源。",
@@ -972,7 +972,7 @@
     {
         "FileName":"power-grid.txt",
         "English":"For more information see \"Network Exploration: Geographic Information Systems\" in the second issue of the zine.",
-        "German":"",
+        "Spanish":"Para más información, lee \"Explorando la Red: Sistemas de Información Geográficos\" en la segunda edición del zine.",
         "French":"",
         "Russian":"",
         "Chinese":"更多信息请参阅第二期杂志的《Network Exploration: Geographic Information Systems》。",
@@ -982,7 +982,7 @@
     {
         "FileName":"radio-station.txt",
         "English":"Connect to each radio station and replace every song in the playlist (file 200) with ‗CAN'T (NOT) GET OVER YOU‗ by ‗ME2U‗ (file 300). Each song in a playlist consists of two keywords: the song name and the artist name.",
-        "German":"",
+        "Spanish":"Conéctate a cada estación de radio y reemplaza cada canción en la lista (archivo 200) con ‗CAN'T (NOT) GET OVER YOU‗ de ‗ME2U‗ (archivo 300). Cada canción en una lista consiste de dos palabras clave: el nombre de la canción, y el del artista.",
         "French":"",
         "Russian":"",
         "Chinese":"请与所有电台广播连接，将歌单（文件 200）中的所有歌曲全部替换为《‗CAN'T (NOT) GET OVER YOU‗》，由 ‗ME2U‗ 作曲（文件 300）。歌单中一首歌由两个关键词组成：歌曲标题和作曲家名字。",
@@ -992,7 +992,7 @@
     {
         "FileName":"radio-station.txt",
         "English":"A list of phone numbers for the radio stations is available in file 301.",
-        "German":"",
+        "Spanish":"Una lista con los números de teléfono de las estaciones se encuentra disponible en el archivo 301.",
         "French":"",
         "Russian":"",
         "Chinese":"电台广播的电话号码列表在文件 301 中。",
@@ -1002,7 +1002,7 @@
     {
         "FileName":"radio-station.txt",
         "English":"Note that EXAs in global mode can only communicate if there is a path of links connecting them.",
-        "German":"",
+        "Spanish":"Nota que los EXAs en modo global solo se puede comunicar si existe algún camino de enlaces que los conecte.",
         "French":"",
         "Russian":"",
         "Chinese":"请注意，全局模式下的二个 EXA 只能在之间能用链接相连时才能进行通讯。",
@@ -1012,7 +1012,7 @@
     {
         "FileName":"restaurant.txt",
         "English":"Each host contains a list of restaurants and their ratings, from one to five stars (file 200). Locate the entry that corresponds to the Last Stop on Eddy Street and change its rating from one to five stars.",
-        "German":"",
+        "Spanish":"Cada anfitrión contiene una lista de restaurantes y sus calificaciones, de una a cinco estrellas (archivo 200). Localice la entrada que corresponde al Last Stop en Eddy Street y cambia su calificación de una a cinco estrellas.",
         "French":"",
         "Russian":"",
         "Chinese":"每个主机都有一个列表，列有餐厅和其一星到五星的评分（文件 200）。请定位对应 Last Stop（Eddy 街）的条目，并将其评分从一星改为五星。",
@@ -1022,7 +1022,7 @@
     {
         "FileName":"restaurant.txt",
         "English":"The name of the target restaurant and its location within the GIS grid is available in file 300. The first coordinate is the number of times to move east, while the second coordinate is the number of times to move north (positive) or south (negative).",
-        "German":"",
+        "Spanish":"El nombre del restaurante objetivo y su ubicación en la malla SIG se encuentra en el archivo 300. La primera coordenada es el número de veces que hay que moverse hacia el este, mientras que la segunda coordenada es la cantidad de veces que hay que moverse hacia el norte (positivo) o al sur (negativo).",
         "French":"",
         "Russian":"",
         "Chinese":"目标餐厅的名称和其在 GIS 网格上的位置在文件 300 中。坐标的第一位是向东的移动次数，而第二位则是向北（正数时）或向南（负数时）的移动次数。",
@@ -1032,7 +1032,7 @@
     {
         "FileName":"sandbox-get.txt",
         "English":"There is an unknown three-digit code (such as 4-7-3) that, when entered one digit at a time into #PASS, will unlock the link between *debug* and *secret*. Find the three-digit code and create a file in your host that contains the code as a sequence of three values, followed by the development kit's RDK ID.",
-        "German":"",
+        "Spanish":"Hay un código desconocido de tres dígitos (así como 4-7-3) que, al ingresarlos un digito a la vez en #PASS, desbloquean el enlace entre *debug* (depuración) y *secret* (secreto). Halla el código de tres dígitos y crea un archivo en tu anfitrión que contenga el código como una secuencia de tres valores, seguido de la ID de RDK del kit de desarrollo.",
         "French":"",
         "Russian":"",
         "Chinese":"该游戏机有一个未知的三位数密码（如 4-7-3）。若将其一位一位地输入到 #PASS 中，它将能解锁 *debug* 和 *secret* 之间的链接。请找出这个三位数密码，并在你的主机中创建一个文件，里面依次含有一个表达该密码的三个数的数列和开发套件的 RDK 编号。",
@@ -1042,7 +1042,7 @@
     {
         "FileName":"satellite.txt",
         "English":"Align the satellite dish with the target satellite by setting the azimuth, elevation, and frequency. Then transmit the data from EMBER-2's video (file 301) after encrypting it using the TV station's encryption key (file 199).",
-        "German":"",
+        "Spanish":"Alinea el plato satelital con el satélite objetivo al configurar el azimut, la elevación, y la frecuencia. Luego transmite los datos desde el video de EMBER-2 (archivo 301) tras encriptarlos usando la clave de encriptación de la estación de TV (archivo 199).",
         "French":"",
         "Russian":"",
         "Chinese":"请设置卫星天线的方位角（AZIM）、仰角（ELEV）和频率（FREQ）以将其对准目标卫星。然后，请使用电视台的加密密钥（文件 199）对 EMBER-2 的视频（文件 301）进行加密，并传输加密后的视频数据。",
@@ -1052,7 +1052,7 @@
     {
         "FileName":"satellite.txt",
         "English":"The azimuth, elevation, and frequency of the target satellite are available in file 300.",
-        "German":"",
+        "Spanish":"El azimut, la elevación, y la frecuencia del satélite objetivo se encuentran en el archivo 300.",
         "French":"",
         "Russian":"",
         "Chinese":"目标卫星的方位角、仰角和频率在文件 300 中。",
@@ -1062,7 +1062,7 @@
     {
         "FileName":"satellite.txt",
         "English":"Note that you must align the satellite dish before transmitting any data.",
-        "German":"",
+        "Spanish":"Nota que debes alinear el plato antes de transmitir cualquier dato.",
         "French":"",
         "Russian":"",
         "Chinese":"请注意，在传输任何数据之前，你必须先对准卫星天线。",
@@ -1072,7 +1072,7 @@
     {
         "FileName":"satellite.txt",
         "English":"For more information see \"Look to the Stars with Satellite Uplink Systems\" in the second issue of the zine.",
-        "German":"",
+        "Spanish":"Para más información, lee \"Mira a las Estrellas con los Sistemas Satelitales de Enlace\" en la segunda edición del zine.",
         "French":"",
         "Russian":"",
         "Chinese":"更多信息请参阅第二期杂志中的《Look to the Stars with Satellite Uplink Systems》。",
@@ -1082,7 +1082,7 @@
     {
         "FileName":"secure-enclave.txt",
         "English":"Terminate all other EXAs and bring any files they were holding back to your host. Only EXAs in the central host will be holding files, and their file IDs will always be between 200 and 299, inclusive.",
-        "German":"",
+        "Spanish":"Acaba con todos los otros EXAs y trae cualquier archivo que sostuvieran a tu anfitrión. Solo los EXAs en el anfitrión central sostendrán archivos, y los IDs siempre estarán entre 200 y 299, incluyéndolos.",
         "French":"",
         "Russian":"",
         "Chinese":"请终止其他所有的 EXA 并将它们持有的文件带回主机。只有位于中央的主机的 EXA 会持有文件，且文件 ID 始终在 200 到 299 之间（包括二者）。",
@@ -1092,7 +1092,7 @@
     {
         "FileName":"secure-enclave.txt",
         "English":"Note that some links may become non-traversable as a result of your actions.",
-        "German":"",
+        "Spanish":"Nota que algunos enlaces pueden volverse no transitables como resultado de tus acciones.",
         "French":"",
         "Russian":"",
         "Chinese":"请注意，你的操作可能将导致部分链接无法访问。",
@@ -1102,7 +1102,7 @@
     {
         "FileName":"snaxnet.txt",
         "English":"An array of five Zippe-type gas centrifuges, ZGC0 through ZGC4, are connected in a cascade configuration.",
-        "German":"",
+        "Spanish":"Una lista con cinco centrífugas de gas de tipo Zippe, ZGC0 hasta ZGC4, están conectados en una configuración en cascada.",
         "French":"",
         "Russian":"",
         "Chinese":"一个含有五个Z型离心机（ZGC0 - ZGC4）的阵列连接到了一个 cascade configuration 中。",
@@ -1112,7 +1112,7 @@
     {
         "FileName":"snaxnet.txt",
         "English":"Read each of the #ZGCX registers and determine which centrifuge currently has the highest pressure. Then disable that centrifuge's regulator by writing a value of 0 to its #POWR register. Repeat this process until all five regulators have been disabled.",
-        "German":"",
+        "Spanish":"Lee cada uno de los registros #ZGCX y determina cuál de las centrífugas tiene la mayor presión en ese instante. Luego, desactiva el regulador de esa centrífuga escribiendo 0 en su registro #POWR. Repite este proceso hasta que los 5 reguladores sean desactivados.",
         "French":"",
         "Russian":"",
         "Chinese":"请读取每个 #ZGCX 寄存器以确定当前压强最高的离心机。随后请向这个离心机的 #POWR 寄存器写入一个数值 0 以关闭该离心机的稳定器。请重复此操作，直到五个稳定器全部关闭为止。",
@@ -1122,7 +1122,7 @@
     {
         "FileName":"solitaire-get.txt",
         "English":"Locate the specified host (either *tape-1*, *tape-2*, or *tape-3*), and then locate the specified entry (‗ПАСЬЯНС‗) in the tape backup file in that host (file 200). Create a file in your host containing the entry's data.",
-        "German":"",
+        "Spanish":"Ubica el anfitrión designado (sea *tape-1*, *tape-2*, o *tape-3*), y luego ubica la entrada especificada (‗ПАСЬЯНС‗) en el archivo de copia de seguridad en cinta en ese anfitrión (archivo 200). Crea un archivo con tu anfitrión conteniendo los datos de la entrada.",
         "French":"",
         "Russian":"",
         "Chinese":"请找到指定的主机（*tape-1*、*tape-2* 或 *tape-3*），然后在该主机的磁带备份文件（文件 200）中找到指定的条目（‗ПАСЬЯНС‗）。请在你的主机中创建一个包含该条目数据的文件。",
@@ -1132,7 +1132,7 @@
     {
         "FileName":"solitaire-get.txt",
         "English":"The names of the target host and entry are available in file 300.",
-        "German":"",
+        "Spanish":"Los nombres del anfitrión objetivo y la entrada están disponibles en archivo 300.",
         "French":"",
         "Russian":"",
         "Chinese":"目标主机名称和条目名称在文件 300 中。",
@@ -1142,7 +1142,7 @@
     {
         "FileName":"tutorial-1.txt",
         "English":"Move file 200 to the *outbox*.",
-        "German":"",
+        "Spanish":"Mueve el archivo 200 a *outbox* (bandeja de salida).",
         "French":"",
         "Russian":"",
         "Chinese":"请将文件 200 移动到 *outbox*。",
@@ -1152,7 +1152,7 @@
     {
         "FileName":"tutorial-1.txt",
         "English":"This task, like most tasks, requires you to _leave no trace_. You must terminate all of your EXAs, not leave any extraneous files in the network, and not make any changes to the network other than those specified by the task's requirements.",
-        "German":"",
+        "Spanish":"Esta tarea, como la mayoría, requiere que tú _no dejes rastro_. Debes terminar todos tus EXAs, no dejas archivos extraños en la red, y no hacer más cambios a la red que aquellos especificados por los requerimientos de la tarea.",
         "French":"",
         "Russian":"",
         "Chinese":"与大多数任务一样，此任务要求你【不留痕迹】。你必须终止你所有的 EXA，不要在网络中留下任何无关的文件，并且不要对网络进行任何任务指定外的更改。",
@@ -1162,7 +1162,7 @@
     {
         "FileName":"tutorial-1.txt",
         "English":"For help completing this task see \"Ghast Walks U Thru It\" in the first issue of the zine.",
-        "German":"",
+        "Spanish":"Para obtener ayuda para completar esta tarea, lee \"Ghast te Guía x Ello\" en la primera edición del zine.",
         "French":"",
         "Russian":"",
         "Chinese":"若你需要完成此任务的帮助请参阅第一期杂志上的《Ghast Walks U Thru It》。",
@@ -1172,7 +1172,7 @@
     {
         "FileName":"tutorial-2.txt",
         "English":"Add the first two values of file 200, multiply the result by the third value, and then subtract the fourth value. Append the result to the end of the file and then move it to the *outbox*.",
-        "German":"",
+        "Spanish":"Suma los primeros dos valores del archivo 200, multiplica el resultado por el tercer valor, y luego substrae el cuarto valor. Añade el resultado al final del archivo y muévelo a *outbox* (bandeja de salida).",
         "French":"",
         "Russian":"",
         "Chinese":"请将文件 200 的前两个值相加，随后乘以第三个值，再减去第四个值。请将结果添加到文件末尾，然后将文件移动到 *outbox*。",
@@ -1182,7 +1182,7 @@
     {
         "FileName":"tutorial-2.txt",
         "English":"You can press the \"SHOW GOAL\" button (or F1) at any time to see a preview of the completed task.",
-        "German":"",
+        "Spanish":"Puedes presionar el botón de \"MOSTRAR META\" (o F1) en cualquier momento para acceder a una previsualización de lo que debes lograr.",
         "French":"",
         "Russian":"",
         "Chinese":"你可以随时按住“显示目标”按钮（或F1键）来预览任务完成后的状态。",
@@ -1192,7 +1192,7 @@
     {
         "FileName":"tutorial-3.txt",
         "English":"File 199 contains exactly two values: a keyword and a number. Create a new file in the *outbox* and copy those two values to it, swapping their order so that the number is first. When you are finished, delete file 199.",
-        "German":"",
+        "Spanish":"El archivo 199 contiene dos valores: una palabra clave y un número. Crea un nuevo archivo en *outbox* y cópiale esos dos valores, cambiando su orden, tal que el número esté primero. Cuando acabes, borra el archivo 199.",
         "French":"",
         "Russian":"",
         "Chinese":"文件 199 包含两个值：一个关键字和一个数。请在 *outbox* 中创建一个新文件，将这两个值复制到该文件中，再交换它们的顺序，以让数在关键词的前面。完成后，请删除文件 199。",
@@ -1202,7 +1202,7 @@
     {
         "FileName":"tutorial-4.txt",
         "English":"File 200 contains exactly one number, N. Create a new file in the *outbox* containing the numbers N through 0 in decreasing order. When you are finished, delete file 200.",
-        "German":"",
+        "Spanish":"El archivo 200 contiene exactamente un número, N. Crea un nuevo archivo en *outbox* que contenga los números desde N hasta 0 en orden decreciente. Cuando acabes, borra el archivo 200.",
         "French":"",
         "Russian":"",
         "Chinese":"文件 200 包含恰好一个数，N。请在 *outbox* 中创建一个新文件，其中包含从 N 到 0 的降序数列。完成后，请删除文件 200。",
@@ -1212,7 +1212,7 @@
     {
         "FileName":"workhouse-2.txt",
         "English":"Locate EMBER-2's user file in the *users* host and overwrite it so that the sum of the values is the same but no individual value exceeds $75. All values, except for the last, must be the maximum value ($75). You will need to add additional values to accomplish this.",
-        "German":"",
+        "Spanish":"Localiza el archivo de usuario de EMBER-2'sen el anfitrión *users* (usuarios) y sobrescríbelo, tal que la suma de los valores sea la misma que antes, pero que los valores individuales no excedan 75$. Todo valor menos el último DEBE ser igual al máximo permitido, 75$. Tendrás que añadir valores extra para lograrlo.",
         "French":"",
         "Russian":"",
         "Chinese":"请在 *users* 主机中找到 EMBER-2 的用户文件，将其改写，使数值总和不变但单个数值均不超过 $75。除最后一个值外，所有值都必须为最大值（$75）。你将需要增加数值的数目以完成该任务。",
@@ -1222,7 +1222,7 @@
     {
         "FileName":"workhouse-2.txt",
         "English":"EMBER-2's username is available in file 300.",
-        "German":"",
+        "Spanish":"El nombre de usuario de EMBER-2 está disponible en el archivo 300.",
         "French":"",
         "Russian":"",
         "Chinese":"EMBER-2 的用户名在文件 300 中。",
@@ -1232,7 +1232,7 @@
     {
         "FileName":"workhouse-2.txt",
         "English":"Note that the sum of the values in EMBER-2's account will always be less than $10,000.",
-        "German":"",
+        "Spanish":"Nota que la suma de los valores en la cuenta de EMBER-2 siempre será inferior a $10,000.",
         "French":"",
         "Russian":"",
         "Chinese":"请注意，EMBER-2 帐户的数值总和必小于 $10000。",
@@ -1242,7 +1242,7 @@
     {
         "FileName":"workhouse-2.txt",
         "English":"For more information see \"Network Exploration: Workhouse\" in the first issue of the zine.",
-        "German":"",
+        "Spanish":"Para más información, lee \"Explorando la Red: Workhouse\" en la primera edición del zine.",
         "French":"",
         "Russian":"",
         "Chinese":"更多信息请参阅第一期杂志中的《Network Exploration: Workhouse》。",
@@ -1252,7 +1252,7 @@
     {
         "FileName":"worm.txt",
         "English":"Using your modem, connect to each dataphone so that EMBER-2 will have a list of valid phone numbers.",
-        "German":"",
+        "Spanish":"Usando tu módem, conéctate a cada uno de los datáfonos para que EMBER-2 tenga una lista de números de teléfono válidos.",
         "French":"",
         "Russian":"",
         "Chinese":"请使用你的调制解调器与每个数据电话机连接，以此让 EMBER-2 获得一张可用的电话号码清单。",
@@ -1262,7 +1262,7 @@
     {
         "FileName":"worm.txt",
         "English":"Each dataphone contains a list of the owner's contacts (file 200). The phone number of one of these dataphones is in your host (file 300), while the rest are in the contact list of another dataphone.",
-        "German":"",
+        "Spanish":"Cada datáfono contiene una lista de los contactos del propietario (archivo 200). El número de teléfono de uno de estos datáfonos está en su anfitrión (archivo 300), mientras que el resto está en la lista de contactos de otro datáfono.",
         "French":"",
         "Russian":"",
         "Chinese":"每个电话机都含有一本其拥有者的通讯录（文件 200）。在这些电话机中有一个的电话号码在你的主机中（文件 300），其余的都在其他电话机的通讯录中。",
@@ -1272,7 +1272,7 @@
     {
         "FileName":"worm.txt",
         "English":"Note that each dataphone (aside from the first) will appear in exactly one other dataphone's contact list, in such a way that you can find them all without getting stuck in a loop.",
-        "German":"",
+        "Spanish":"Nota que cada datáfono (aparte del primero) aparece en exactamente UNA lista de contactos de otro datáfono, en cierta forma que siempre encontrarás todos los números sin entrar en algún bucle.",
         "French":"",
         "Russian":"",
         "Chinese":"请注意，所有电话机（除了第一个）都会出现，也只会出现在另一个电话机的通讯录中，以此你可以不陷入循环而找到所有的电话机。",
