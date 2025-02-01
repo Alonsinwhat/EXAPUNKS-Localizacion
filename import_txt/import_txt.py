@@ -70,7 +70,7 @@ def import_vignettes():
 
 
 def import_descriptions():
-    LANGS = {'Spanish': 'es',
+    LANGS = {'Spanish': 'de',
              'French': 'fr',
              'Russian': 'ru',
              'Chinese': 'zh',
